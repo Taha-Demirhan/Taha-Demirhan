@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taha-Demirhan
-- freshman at Bilkent University.
+- Freshman CS student at Bilkent University.
 
 <!---
 Taha-Demirhan/Taha-Demirhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
